@@ -2,9 +2,10 @@
   "name": "nest-track-execution",
   "version": "0.0.1",
   "description": "",
-  "author": "",
-  "private": true,
-  "license": "UNLICENSED",
+  "author": "goliakshay",
+  "license": "MIT",
+  "main": "dist/main.js",
+  "type": "dist/main.d.ts",
   "scripts": {
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",

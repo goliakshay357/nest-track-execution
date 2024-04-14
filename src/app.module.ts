@@ -5,4 +5,4 @@ import { ExecutionTimeInterceptor } from './metrics/interceptors/execution-time.
   providers: [ExecutionTimeInterceptor],
   exports: [ExecutionTimeInterceptor],
 })
-export class AppModule {}
+export class MetricsModule {}
